@@ -30,5 +30,3 @@ let Lightbox = new SimpleLightbox(".gallery a", {
   widthRatio: 1,
   doubleTapZoom:1.5,
  });
-
-galleryEl.addEventListener("click", onClickImage);
